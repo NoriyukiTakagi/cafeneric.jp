@@ -1,0 +1,32 @@
+/*基本書式ならびにリセットCSSを継承*/
+:root {
+	font-family: 'Yu Gothic', Meiryo, sans-serif;
+	font-size: 16px;
+	line-height: 1em;
+	color: rgb(60, 60, 60);
+	--content-width: 1200px; /*コンテンツサイズ　全ページ共通*/
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul, li{
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+}
+h2, h3 {
+	line-height: 1.2em;
+}
+p {
+	line-height: 1.5em;
+}
+h2 {
+	font-size: 3em;
+}
+header, main, footer, div, article {
+	position: relative;
+	overflow: hidden;
+}
