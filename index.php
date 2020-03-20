@@ -16,7 +16,7 @@
 <body>
 <!--ヘッダー共通-->
 <?php
-	include('./header_common.html'); //header_common.htmlをインクルード
+	include('./header_common.html'); //header_common.html を インクルード
 ?>
 <!--トップページメイン-->
 	<main>
@@ -60,7 +60,7 @@
 					</article>
 				</div>
 				<p class="common_btn"><a href="#">過去のトピックスをみる</a></p>
-			</div>	
+			</div>
 		</section>
 		<section id="menuPickup">
 			<div class="menuPickup">
@@ -117,7 +117,7 @@
 						<p>画像をクリックすると拡大表示します。</p>
 					</div>
 				</div>
-				
+
 				<p class="common_btn"><a href="#">Google Mapで確認する</a></p>
 			</div>
 		</section>
@@ -131,11 +131,11 @@
 		$('.slick-slider').slick({
 			centerMode:true,
 			centerPadding: '35%',
-			autoplay: true, 
+			autoplay: true,
 			autoplaySpeed: 5000,
 			dots:true,
 			arrows: true,
-			
+
 		});
 	});
 </script>
