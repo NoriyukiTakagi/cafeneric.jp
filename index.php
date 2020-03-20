@@ -16,7 +16,7 @@
 <body>
 <!--ヘッダー共通-->
 <?php
-	include('./header_common.html'); //header_common.htmlをインクルード
+	include('./header_common.html'); //header_common.htmlをインクルード 
 ?>
 <!--トップページメイン-->
 	<main>
