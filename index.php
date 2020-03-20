@@ -16,7 +16,7 @@
 <body>
 <!--ヘッダー共通-->
 <?php
-	include('./header_common.html'); //header_common.html を インクルード
+	include('./header_common.html'); //header_common.htmlをインクルード
 ?>
 <!--トップページメイン-->
 	<main>
@@ -28,7 +28,7 @@
 			</div>
 			<article>
 				<ul>
-					<li>2020.01.12　喫茶「カフェ・ネリック」本日、リニューアルオープンいたしました。</li>
+					<li>2020.01.12　喫茶「カフェ・ネリック」本日、リニューアルオープンいたしました</li>
 					<li><a href="#"><img src="images/dtmore.svg" alt="news履歴開閉アイコン"></a></li>
 				</ul>
 			</article>
