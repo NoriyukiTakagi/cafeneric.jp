@@ -28,7 +28,7 @@
 			</div>
 			<article>
 				<ul>
-					<li>2020.01.12　喫茶「カフェ・ネリック」本日、リニューアルオープンいたしました</li>
+					<li>2020.01.12　喫茶「カフェ・ネリック」本日、リニューアルオープンいたしました。</li>
 					<li><a href="#"><img src="images/dtmore.svg" alt="news履歴開閉アイコン"></a></li>
 				</ul>
 			</article>
